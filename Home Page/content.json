@@ -1,17 +1,50 @@
 {
-    "name": "Maxwell Kuria Maina",
-    "title": "XR and AI Researcher and Developer",
-    "intro": "I am a Computer Science student specializing in Artificial Intelligence and Extended Reality. My academic and project work focuses on machine learning, natural language processing, and immersive XR development. I am passionate about using technology to help people and improve their lives, tackling real-world challenges in cybersecurity, agriculture, healthcare, and education — driven by curiosity and impact rather than profit.",
-    "socials": [
-      {"platform": "LinkedIn", "url": "https://www.linkedin.com/in/maxwell-kuria-143230359/"},
-      {"platform": "GitHub", "url": "https://github.com/St-thomas-Aquinas?tab=repositories"},
-      {"platform": "Kaggle", "url": "https://www.kaggle.com/maxwellkuria"}
-    ],
-    "menu": [
-      {"label": "Datasets And Notebooks", "link": "/DatasetsAndNotebooks/index.html"},
-      {"label": "Achievements & Awards", "link": "/ArchivementAndAwards/index.html"},
-      {"label": "Projects", "link": "/Projects/index.html"},
-      {"label": "Skills", "link": "../Skills/index.html"}
-    ]
-  }
-  
+  "name": "Maxwell Kuria Maina",
+  "title": "XR and AI Researcher and Developer",
+  "intro": "I am a Computer Science student specializing in Artificial Intelligence and Extended Reality. My academic and project work focuses on machine learning, natural language processing, and immersive XR development. I am passionate about using technology to help people and improve their lives, tackling real-world challenges in cybersecurity, agriculture, healthcare, and education — driven by curiosity and impact rather than profit.",
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/maxwell-kuria-143230359/",
+      "icon": "https://cdn-icons-png.flaticon.com/24/174/174857.png"
+    },
+    {
+      "name": "GitHub",
+      "link": "https://github.com/St-thomas-Aquinas?tab=repositories",
+      "icon": "https://cdn-icons-png.flaticon.com/24/733/733553.png"
+    },
+    {
+      "name": "Kaggle",
+      "link": "https://www.kaggle.com/maxwellkuria",
+      "icon": "https://logo.svgcdn.com/devicon/kaggle-original.png"
+    },
+    {
+      "name": "Hugging face",
+      "link": "https://huggingface.co/ST-THOMAS-OF-AQUINAS",
+      "icon": "https://logo.svgcdn.com/logos/hugging-face-icon.png"
+    }
+  ],
+
+  "menu": [
+    {
+      "label": "Home",
+      "link": "/"
+    },
+    {
+      "label": "Datasets & Notebooks",
+      "link": "/DatasetsAndNotebooks/"
+    },
+    {
+      "label": "Achievements & Awards",
+      "link": "/ArchivementAndAwards/"
+    },
+    {
+      "label": "Projects",
+      "link": "/Projects/"
+    },
+    {
+      "label": "Skills",
+      "link": "/Skills/"
+    }
+  ]
+}

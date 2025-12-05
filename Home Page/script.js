@@ -1,5 +1,5 @@
 // Fetch JSON content and populate the page
-fetch('content.json')
+fetch('Home Page/content.json')
   .then(res => res.json())
   .then(data => {
     // Home page content
@@ -11,7 +11,12 @@ fetch('content.json')
     const socialList = document.getElementById('social-list');
     data.socials.forEach(social => {
       const li = document.createElement('li');
-      li.innerHTML = `<a href="${social.url}" target="_blank">${social.platform}</a>`;
+      li.innerHTML = `
+        <a href="${social.link}" target="_blank">
+          <img src="${social.icon}" alt="${social.name} icon">
+          ${social.name}
+        </a>
+      `;
       socialList.appendChild(li);
     });
 
