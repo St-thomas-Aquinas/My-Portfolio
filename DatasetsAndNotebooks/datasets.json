@@ -1,0 +1,36 @@
+{
+    "pageTitle": "Datasets & Notebooks",
+    "pageIntro": "A collection of datasets and machine learning notebooks I have created or contributed to during research, hackathons, and personal projects.",
+  
+    "items": [
+      {
+        "title": "Animals That Destroy Farms In Kenya",
+        "type": "Dataset",
+        "description": "This dataset contains images of seven key animals commonly responsible for farm (shamba) destruction in Kenya: Elephants, Cows, Hippos, Humans, Hyenas, Goats, and Monkeys. These animals contribute to 1/5 of the annual food shortage in Kenya, making reliable detection systems an important area of research.The images were scraped from Google Images and organized into separate directories for each class.",
+        "image": "images/animal_dataset.jpg",
+        "link": "https://www.kaggle.com/datasets/maxwellkuria/animals-that-destroy-farms-in-kenya"
+      },
+      {
+        "title": "Voice Phishing Notebook",
+        "type": "Notebook",
+        "description": "This notebook is used to train Transforme Model BERT to detect Scam Calls.",
+        "image": "images/diabetes_notebook.jpg",
+        "link": "https://www.kaggle.com/code/maxwellkuria/scam-calls-classification-model"
+      },
+      {
+        "title": "Voice Phishing Dataset- English and Swahili",
+        "type": "Dataset",
+        "description": "This dataset contains synthetic transcriptions of voice-phishing (vishing) phone calls created in both English and Swahili. It includes two labeled categories: Normal Conversation,Scam / Phishing Conversation The dataset was developed for the 2025 JKUAT–Oracle Hackathon (AI for Cybersecurity), with the goal of training a BERT-based model capable of detecting scam calls from voice transcripts.",
+        "image": "images/xr_dataset.jpg",
+        "link": "https://www.kaggle.com/datasets/maxwellkuria/scamdataset"
+      },
+      {
+        "title": "Kenyan Roads And Vehicle Dataset",
+        "type": "Notebook",
+        "description": "A notebook that trains a text-generation model (T5-small) to suggest health tasks based on symptoms.",
+        "image": "images/health_notebook.jpg",
+        "link": "https://colab.research.google.com/another-notebook"
+      }
+    ]
+  }
+  

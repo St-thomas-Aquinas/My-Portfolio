@@ -1,0 +1,31 @@
+{
+    "pageTitle": "My Skillset",
+    "pageIntro": "Here is a detailed overview of the key skills I have gained through professional training, hackathons, and real-world project experience.",
+    "skills": [
+      {
+        "title": "Accounting Skills",
+        "description": "Completed CPA Level 1 and awaiting to write the professional exam."
+      },
+      {
+        "title": "Artificial Intelligence & Machine Learning",
+        "description": "Specialized in Computer Vision, a skill acquired through a Microsoft–JKUAT sponsored AI hackathon."
+      },
+      {
+        "title": "Data Analytics",
+        "description": "Experienced in Python and NumPy, gained through hands-on experience in multiple analytical projects."
+      },
+      {
+        "title": "AR / VR Development",
+        "description": "Experienced in building virtual reality platforms for the National Research Fund and Origin Research & Innovation Labs."
+      },
+      {
+        "title": "Physical Agentic AI Development",
+        "description": "A skill gained during the 2025 Intervarsity Oracle–JKUAT AI Hackathon, integrating AI with robotics."
+      },
+      {
+        "title": "GPS & Mapping Systems",
+        "description": "Developed experience through building the Murang’a University of Technology navigation system."
+      }
+    ]
+  }
+  

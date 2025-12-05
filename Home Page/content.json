@@ -1,0 +1,17 @@
+{
+    "name": "Maxwell Kuria Maina",
+    "title": "XR and AI Researcher and Developer",
+    "intro": "I am a Computer Science student specializing in Artificial Intelligence and Extended Reality. My academic and project work focuses on machine learning, natural language processing, and immersive XR development. I am passionate about using technology to help people and improve their lives, tackling real-world challenges in cybersecurity, agriculture, healthcare, and education — driven by curiosity and impact rather than profit.",
+    "socials": [
+      {"platform": "LinkedIn", "url": "https://www.linkedin.com/in/maxwell-kuria-143230359/"},
+      {"platform": "GitHub", "url": "https://github.com/St-thomas-Aquinas?tab=repositories"},
+      {"platform": "Kaggle", "url": "https://www.kaggle.com/maxwellkuria"}
+    ],
+    "menu": [
+      {"label": "Datasets And Notebooks", "link": "/DatasetsAndNotebooks/datasets.html"},
+      {"label": "Achievements & Awards", "link": "/ArchivementAndAwards/achievements.html"},
+      {"label": "Projects", "link": "/Projects/projects.html"},
+      {"label": "Skills", "link": "/Skills/skills.html"}
+    ]
+  }
+  

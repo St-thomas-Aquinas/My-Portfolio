@@ -1,0 +1,49 @@
+{
+    "pageTitle": "My Projects",
+    "pageIntro": "Here are some of the projects I have built in XR, AI, and software development.",
+    "projects": [
+      {
+        "title": "Information Management System for Sacred Heart of Jesus Cathedral, Catholic Diocese of Murang’a",
+        "year": "2024",
+        "description": "This involved digitizing sacramental records/registers dating back to 1902, when the first Consolata Missionaries arrived in Kenya (Tuzo, Murang'a Diocese). We are still working on it with a great team of friends. The biggest challenge was the large amount of records and their handwritten by missionaries , making it difficult to digitize one by one , The solution we found was to combine Ai ( Charater recognition ) to extract the character and store in a Json Server  along with  the link to the image. Then using fuzzy Search algorithim we search for names when it machets it will display the image with the record.",
+        
+        "link": "project-details/ai_health.html"
+      },
+      {
+        "title": "AI for Health (Hackathon Project):",
+        "year": "2024",
+        "description": "Developed an AI solution during the JKUAT-Microsoft Hackathon aimed at addressing the shortage of dermatologists in Kenya, with dermatologists available only in Level 6 hospitals. The solution is designed to provide accessible healthcare in underserved areas, and in the process of applying for Intellectual Property (IP).",
+        
+        "link": "project-details/vr_solar.html"
+      },
+      {
+        "title": "AR/VR Learning Kit for Schools in Kenya – Origin Research and Innovation Labs",
+        "year": "2025",
+        "description": "This project was awarded a development grant by Origin Research and Innovation Labs. It involves creating a Virtual Reality platform designed for students under Kenya’s Competency-Based Curriculum (CBC) to enhance interactive learning and experimentation. One of the key modules developed was a virtual solar system, where students can explore different planets and perform gravity-based experiments in an immersive environment.",
+      
+        "link": "project-details/task_manager.html"
+      },
+      {
+        "title": "Linda Shamba – AI for Food Security & Climate Change (Oracle–JKUAT Hackathon)",
+        "year": "2025",
+        "description": "We built a physical, agentic AI system designed to help farmers in Kenya prevent crop destruction by wildlife—especially monkeys and elephants. This challenge contributes to nearly one-fifth of Kenya’s annual food shortage. Our solution integrates robotics and computer vision, enabling real-time detection and deterrence of animals before they damage farms.",
+      
+        "link": "project-details/task_manager.html"
+      },
+      {
+        "title": "Deep Guard AI – Cybersecurity Solution (Oracle–JKUAT Hackathon)",
+        "year": "2025",
+        "description": "Deep Guard AI was developed to combat impersonation attacks, voice phishing, account takeovers, and document fraud. We trained a BERT-based transformer model to analyze text messages—particularly on WhatsApp—and determine whether the sender is the legitimate user or an impostor. If an anomaly is detected, the system alerts the recipient. We also built an authorship-verification model for organizational memos, helping institutions confirm whether a document was written by the claimed author. For the voice-phishing component, we collected English scam-call datasets and translated them into Swahili to help the model understand local Kenyan communication patterns.",
+      
+        "link": "project-details/task_manager.html"
+      },
+      {
+        "title": "Murang’a University of Technology Campus Navigation App",
+        "year": "2025",
+        "description": "This project was initiated after the Dean of the School of Computing and IT highlighted the difficulties students faced navigating the large MUT campus. Many struggled to locate lecture rooms and administrative offices. We designed a navigation solution using OpenStreetMap, database management, and natural language processing. Students or visitors simply type the name of the room or office into an onboard chatbot using natural language, and using their current GPS coordinates, the system plots the shortest route to their destination.",
+      
+        "link": "project-details/task_manager.html"
+      }
+    ]
+  }
+  

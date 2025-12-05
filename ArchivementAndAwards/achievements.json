@@ -1,0 +1,31 @@
+{
+    "pageTitle": "Achievements & Awards",
+    "pageIntro": "Here are some of my notable achievements and awards.",
+    "achievements": [
+      {
+        "title": "Institutional Trophy for Second Place",
+        "event": "2024 INVERVERSITY MICROSOFT-JKUAT HACKATHON ",
+        "description": "2024 intervarsity JKUAT-Microsoft Sponsored Hackathon (AI for Health): Recognized for innovative solutions in AI technology for healthcare.        ",
+        "image": "images/xr_project.jpg"
+      },
+      {
+        "title": "First Place Victory and Development Grant Award.",
+        "event": "Origin Research and Innovation Labs Africa  Virtual reality and Augmented reality hackathon",
+        "description": "Origin Fest 2025 set out goal to transform the way STEM (Science, Technology, Engineering, Arts, and Mathematics) is taught in Kenyan schools by harnessing the power of Virtual Reality (VR) and Artificial Intelligence (AI). It aimed to make learning more interactive, immersive, and student-centered, especially in under-resourced settings",
+        "image": "images/1750787288255.jpeg"
+      },
+      {
+        "title": "Institutional Trophy for Second Place",
+        "event": "2025 INVERVERSITY ORACLE-JKUAT HACKATHON ",
+        "description": " 2025 intervarsity JKUAT-Oracle Sponsored Hackathon (AI for Cybersecurity ): Recognized for innovative solutions in AI technology for Cybersecurity.",
+        "image": "images/jkuat.jpeg"
+      },
+      {
+        "title": "Software Development Attachment",
+        "event": "Software Boot camp",
+        "description": "Completed a software development attachment at Teach2give a subsidiary of the JITU staffing company on web development.",
+        "image": "images/Teach2give certficate.jpeg"
+      }
+    ]
+  }
+  
