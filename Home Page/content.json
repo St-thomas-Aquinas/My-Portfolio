@@ -27,8 +27,8 @@
 
   "menu": [
     {
-      "label": "Home",
-      "link": "/"
+      "label": "References",
+      "link": "/References"
     },
     {
       "label": "Datasets & Notebooks",
